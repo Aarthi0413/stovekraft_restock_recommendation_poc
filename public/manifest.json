@@ -1,0 +1,47 @@
+{
+    "name": "Stovekraft - Restock Recommendation",
+    "version": "0.0.1",
+    "size": {
+        "width": 3,
+        "height": 3
+    },
+    "mapping": [
+        {
+            "dataSetId": "1a8703b9-6c14-41b9-a2f0-ff79ef56b059",
+            "alias": "stock_data",
+            "fields":[]
+        }
+    ],
+    "workflowMapping": [
+        {
+            "alias": "test",
+            "modelId": null,
+            "version": null,
+            "parameters": [
+                {
+                    "name": "to",
+                    "aliasedName": "to",
+                    "type": "text",
+                    "list": false,
+                    "children": []
+                },
+                {
+                    "name": "subject",
+                    "aliasedName": "subject",
+                    "type": "text",
+                    "list": false,
+                    "children": []
+                },
+                {
+                    "name": "body",
+                    "aliasedName": "body",
+                    "type": "text",
+                    "list": false,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "id": "bdc7b993-ab15-4d86-a247-e0286f7e4eb6",
+    "proxyId":"28b3e8b1-0e12-41f0-9fb3-cadd2c45ba8d"
+}

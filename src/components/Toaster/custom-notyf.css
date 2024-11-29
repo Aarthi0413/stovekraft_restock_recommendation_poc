@@ -1,0 +1,19 @@
+
+.notyf__toast {
+  border-radius: 5px; /* Rounded corners */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); /* Custom shadow */
+}
+
+.notyf__toast--error {
+  color: #ffff;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.notyf__icon--success {
+  color: #4caf50; /* Custom success icon color */
+}
+
+.notyf__icon--error {
+  color: #f44336; /* Custom error icon color */
+}
